@@ -1,3 +1,10 @@
 # Backend
 
 tests/unit/__pycache__
+
+# Pipfile
+Pipfile
+Pipfile.lock
+
+# Coverage
+.coverage

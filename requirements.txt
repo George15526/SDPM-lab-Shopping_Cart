@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+coverage==7.6.9; python_version >= '3.9'
